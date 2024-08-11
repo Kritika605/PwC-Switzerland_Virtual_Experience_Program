@@ -7,9 +7,9 @@ Through meticulous data analysis and visualization, this project aims to support
 
 This virtual experience program consists of 3 tasks:
 
-* Task 1: Create Call Centre Dashboard - visualizing customer and agent behavior.
-* Task 2: Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
-* Task 3: Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
+* [Task 1](https://github.com/Kritika605/PwC-Switzerland_Virtual_Experience_Program/tree/main/Task%201%20-%20Call%20Center%20Trends): Create Call Centre Dashboard - visualizing customer and agent behavior.
+* [Task 2](https://github.com/Kritika605/PwC-Switzerland_Virtual_Experience_Program/tree/main/Task%202%20-%20Customer%20Retention): Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
+* [Task 3](https://github.com/Kritika605/PwC-Switzerland_Virtual_Experience_Program/tree/main/Task%203%20-%20Diversity%20%26%20Inclusion): Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
 
 ## Dashboards and Visualizations
 ### Call Centre Trends
